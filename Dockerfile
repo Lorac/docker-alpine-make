@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN apk add --update --no-cache make
+RUN apk add --update --no-cache make zip
